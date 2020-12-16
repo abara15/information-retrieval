@@ -1,0 +1,12 @@
+0.092639  nasa.txt
+0.050112  nasa.txt
+0.041751  info31.txt
+0.051315  news1.txt
+0.047350  planets.txt
+0.077104  planets.txt
+0.070442  news1.txt
+0.019956  mixed.txt
+0.060412  nasa.txt
+0.008368  file21.txt
+0.027394  mixed.txt
+0.004057  file11.txt
